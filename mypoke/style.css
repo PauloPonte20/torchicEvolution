@@ -1,0 +1,18 @@
+.container {
+    text-align: center;
+    background-color: rgb(236, 212, 162);
+}
+.container img {
+    max-width:300px;
+    max-height:250px;
+    width: auto;
+    height: auto;
+}
+#title {
+    font-size: 30px;
+    font-style: italic;
+}
+#status {
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
